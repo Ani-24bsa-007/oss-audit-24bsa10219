@@ -2,8 +2,8 @@
 
 ## Student Details
 
-* Name: Prathamesh kumar
-* Registration No.: 24MIP10034
+* Name: Anirudh Gupta
+* Registration No.: 24BSA10219
 
 ## Chosen Software
 
